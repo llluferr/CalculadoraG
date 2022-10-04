@@ -13,8 +13,8 @@
 - [x] Digitacao por botoes
 - [x] Soma
 - [x] Subtracao
-- [ ] Multiplicacao
-- [ ] Divisao
+- [x] Multiplicacao
+- [x] Divisao
 - [x] Raiz
 - [x] Quadrado
 - [ ] Log em BD
