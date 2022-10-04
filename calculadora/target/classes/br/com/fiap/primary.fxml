@@ -112,7 +112,7 @@
                   <Font size="24.0" />
                </font>
             </Button>
-            <Button layoutX="10.0" layoutY="16.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="143.0" text="raiz" GridPane.rowIndex="4">
+            <Button layoutX="10.0" layoutY="16.0" mnemonicParsing="false" onAction="#raiz" prefHeight="25.0" prefWidth="143.0" text="raiz" GridPane.rowIndex="4">
                <font>
                   <Font size="24.0" />
                </font>
@@ -132,7 +132,7 @@
                   <Font size="24.0" />
                </font>
             </Button>
-            <Button layoutX="10.0" layoutY="17.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="143.0" GridPane.rowIndex="3">
+            <Button layoutX="10.0" layoutY="17.0" mnemonicParsing="false" onAction="#digitarNumero" prefHeight="25.0" prefWidth="143.0" text="." GridPane.rowIndex="3">
                <font>
                   <Font size="24.0" />
                </font>

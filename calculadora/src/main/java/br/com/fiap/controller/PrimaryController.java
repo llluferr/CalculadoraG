@@ -28,4 +28,10 @@ public class PrimaryController {
         display.setText(valorDoDisplay);
     }
 
+    public void raiz(){
+        double valorDoDisplay = Double.valueOf(display.getText());
+        double raiz = Math.sqrt(valorDoDisplay);
+        display.setText(String.valueOf(raiz));
+    }
+
 }

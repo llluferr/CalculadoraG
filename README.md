@@ -15,6 +15,6 @@
 - [ ] Subtracao
 - [ ] Multiplicacao
 - [ ] Divisao
-- [ ] Raiz
+- [x] Raiz
 - [ ] Quadrado
 - [ ] Log em BD
