@@ -9,7 +9,9 @@
 
 ## Funcionalidades
 
-- [x] Soma
+- [x] GUI
+- [x] Digitacao por botoes
+- [ ] Soma
 - [ ] Subtracao
 - [ ] Multiplicacao
 - [ ] Divisao
