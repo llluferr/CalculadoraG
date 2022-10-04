@@ -1,4 +1,4 @@
-# CalculadoraG
+# Calculadora
 
 
 ## Sobre
