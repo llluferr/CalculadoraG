@@ -11,6 +11,8 @@ public class PrimaryController {
 
     @FXML private TextField display;
 
+    private double numero1;
+
     public void digitarNumero(ActionEvent event) {
         Button botao = (Button) event.getSource(); 
         String valorDoDisplay = display.getText();
@@ -32,6 +34,23 @@ public class PrimaryController {
         double valorDoDisplay = Double.valueOf(display.getText());
         double raiz = Math.sqrt(valorDoDisplay);
         display.setText(String.valueOf(raiz));
+    }
+
+    public void quadrado(){
+        double valorDoDisplay = Double.valueOf(display.getText());
+        double quadrado = Math.pow(valorDoDisplay, 2);
+        display.setText(String.valueOf(quadrado));
+    }
+
+    public void soma(){
+        this.numero1 = Double.valueOf(display.getText());
+        clear();
+    }
+
+    public void calcular(){
+        double numero2 = Double.valueOf(display.getText());
+        double resultado = numero1 + numero2;
+        display.setText(String.valueOf(resultado));
     }
 
 }

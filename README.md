@@ -11,10 +11,10 @@
 
 - [x] GUI
 - [x] Digitacao por botoes
-- [ ] Soma
-- [ ] Subtracao
+- [x] Soma
+- [] Subtracao
 - [ ] Multiplicacao
 - [ ] Divisao
 - [x] Raiz
-- [ ] Quadrado
+- [x] Quadrado
 - [ ] Log em BD
