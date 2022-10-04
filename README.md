@@ -9,7 +9,7 @@
 
 ## Funcionalidades
 
-- [ ] Soma
+- [x] Soma
 - [ ] Subtracao
 - [ ] Multiplicacao
 - [ ] Divisao
