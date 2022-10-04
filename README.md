@@ -17,4 +17,4 @@
 - [x] Divisao
 - [x] Raiz
 - [x] Quadrado
-- [ ] Log em BD
+- [x] Log em BD
